@@ -2,7 +2,7 @@
 
 Authors: Soumya Snigdha Kundu, Sheel Patel, Shaswat Srivatsava, Aarsh Chaube and Vaishnavi Moorthy.
 
-Abstract: 	Self-supervision posses the ability to learn better decision-related representations when compared to that of supervised learning. In this paper, we prove that the representations learnt by a self-supervised model is invariant to any form of color bias. We present two separate experimentation pipelines to evaluate a models capability to handle artificial color bias and incorporate naturally occurring color differences present in vision data. 
+Abstract: 	Self-supervision posses the ability to learn better decision-related representations when compared to that of supervised learning. In this paper, we prove that the representations learnt by a self-supervised model is invariant to any form of color bias. We present two separate experimentation pipelines to evaluate the capability of a model to handle artificial color bias and gauge the ability of a model to incorporate naturally occurring color differences present in vision data. 
 
 Primary Results: 
 To be Posted. 
